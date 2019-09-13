@@ -1,20 +1,22 @@
-
-/**
- * クラス Exercise2 の注釈をここに書きます.
- * 
- * @author (あなたの名前)
- * @version (バージョン番号もしくは日付)
- */
-public class Exercise2
-{
+public class Exercise2{
     public static void main(String[]args){
-        int[] Degrees = new int[10];
-        Degrees[2] = 2;
-        Degrees[5] = 5;
-    
-        System.out.print(Degrees);
+        String FirstLine="X one";
+        System.out.print("The value of the first line is:");
+        System.out.println(FirstLine);
     
     
     
-     }
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
 }

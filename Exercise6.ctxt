@@ -1,6 +1,10 @@
 #BlueJ class context
 comment0.target=Exercise6
-comment0.text=\r\n\ \u30AF\u30E9\u30B9\ Exercise6\ \u306E\u6CE8\u91C8\u3092\u3053\u3053\u306B\u66F8\u304D\u307E\u3059.\r\n\ \r\n\ @author\ (Jani\ Iresha)\r\n\ @version\ (24/5/2019)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment0.text=\r\n\ Day\ \:\ 21\r\n\ Exercise\ \:\ 1\r\n\ Chapter\ \:\ 5\r\n\ Book\:\ Think\ Java\r\n\r\n\ @author\ (Jani\ Iresha)\r\n\ @version\ (12/12/2018)\r\n\ \r\n
+comment1.params=blimp
+comment1.target=void\ baffle(java.lang.String)
+comment2.params=quince\ flag
+comment2.target=void\ zippo(java.lang.String,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

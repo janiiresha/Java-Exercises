@@ -1,18 +1,57 @@
-
-/**
- * クラス ex4 の注釈をここに書きます.
- * 
- * @author (Jani Iresha)
- * @version (17-5-2019)
- */
-public class Exercise4
-{
+public class Exercise4{
     public static void main(String[]args){
-        double[]grades = new double[100];
-    grades[0] = 98;
-    grades[9] = 98;
-    grades[99] = 98;
+        //variable of chickens
+        int chicken = 3;
+        //amount of bacon
+        int bacon = 5;
+        //a word
+        String tractor="There is none!";
+        System.out.println("chicken:");
+        System.out.println(chicken);
+        System.out.println("Bacon (kg):");
+        System.out.println(bacon);
+        System.out.println("A Tractor:");
+        System.out.println(tractor);
+        System.out.print("\n");
+        System.out.println("In a nutshell:");
+        System.out.println(chicken);
+        System.out.println(bacon);
+        System.out.println(tractor);
+        
+        //A new number of chicken
+        chicken = 9000;
+        //A new amount of bacon
+        bacon=1;
+        //a new word
+        tractor = "zetor";
+        System.out.print("\n");
+        System.out.println("chicken:");
+         System.out.println(chicken);
+        System.out.println("Bacon (kg):");
+        System.out.println(bacon);
+        System.out.println("A Tractor:");
+        System.out.println(tractor);
+        System.out.print("\n");
+        System.out.println("In a nutshell:");
+        System.out.println(chicken);
+        System.out.println(bacon);
+        System.out.println(tractor);
+        
+        
     
-System.out.println(grades);    
-}
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
+
 }
