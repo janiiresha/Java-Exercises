@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=chapter6exe4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Chapter6Ex4\ here.\r\n\r\n\ @author\ (Jani\ Iresha)\r\n\ @version\ (30/01/2019)\r\n
+comment1.params=a\ b\ c
+comment1.target=double\ multAdd(double,\ double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
